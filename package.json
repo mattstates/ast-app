@@ -1,0 +1,16 @@
+{
+  "name": "ast-app",
+  "version": "0.0.1",
+  "description": "Joke app to take strings with characters or numbers and attempt to turn them into naughty words.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt States",
+  "license": "MIT",
+  "dependencies": {
+    "an-array-of-english-words": "^2.0.0",
+    "badwords": "^1.0.0",
+    "js-levenshtein": "^1.1.6"
+  }
+}
