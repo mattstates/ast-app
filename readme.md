@@ -14,4 +14,4 @@ a**  -->  ass
 ````
 
 ## Why?
-A non tech friend wished for an app that would deobsfucate words online that were hidden with asterisks.
+A non tech friend wished for an app that would deobfuscate words online that were hidden with asterisks.
