@@ -14,7 +14,7 @@ const rl = readline.createInterface({
  * @param {string} input
  * @param {number} threshold
  */
-function makeWordsNaughtyAgain(input, threshold = 2) {
+function makeWordsNaughtyAgain(input, threshold = 4) {
     const length = input.length;
     const wordMin = length - Math.max(threshold / 2);
     const wordMax = length + Math.max(threshold / 2);

@@ -4,6 +4,7 @@
   "description": "Joke app to take strings with characters or numbers and attempt to turn them into naughty words.",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matt States",
